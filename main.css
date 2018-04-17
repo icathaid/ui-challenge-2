@@ -1,0 +1,42 @@
+main {
+    width: 960px;
+    height: 200%;
+    margin: auto;
+    display: block;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    background-color: yellow;
+    color: green;
+}
+
+.text-inputs {
+    width: 80%;
+    height: 40%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: orange;
+    background-color: purple;
+    color: red;
+}
+.right {
+    float: right;
+}
+
+.checkbox-inputs {
+    width: 80%;
+    height: 40%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10px;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    background-color: blue;
+    color: beige;
+}
