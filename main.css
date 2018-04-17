@@ -40,3 +40,18 @@ main {
     background-color: blue;
     color: beige;
 }
+
+#boxOne {
+    display: none;
+}
+.check {
+    background-image: url('/sprites/form-elements-sprite.png');
+    background-position: 0 0;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+}
+#boxOne:checked + .check{
+    background-position: 100 100;
+}

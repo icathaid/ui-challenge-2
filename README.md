@@ -1,3 +1,12 @@
+Resources used:
+<!-- https://psdtowp.net/resources/wordpress-content/customize-radio-buttons-checkboxes-css-sprites.html -->
+
+http://css-workshop.com/css-custom-checkbox-style-with-image/
+
+http://www.spritecow.com/
+
+
+
 # Assignment Overview: UI Challenge 2
 ### DUE:
 
